@@ -15,6 +15,7 @@ channels = "*"
 daphne = "*"
 python-dotenv = "*"
 django-cors-headers = "*"
+drf-spectacular = "*"
 
 [dev-packages]
 
